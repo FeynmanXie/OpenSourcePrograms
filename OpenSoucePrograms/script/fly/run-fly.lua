@@ -1,1 +1,1 @@
-(game:HttpGet("https://raw.githubusercontent.com/FeynmanXie/OpenSourcePrograms/refs/heads/main/OpenSoucePrograms/script/fly/fly.lualoadstring"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FeynmanXie/OpenSourcePrograms/refs/heads/main/OpenSoucePrograms/script/fly/fly.lualoadstring"))()
